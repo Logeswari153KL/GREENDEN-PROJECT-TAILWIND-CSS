@@ -1,5 +1,3 @@
-// contact.js — side nav + contact form validation
-// Added improved sidenav handling to match other pages (close on link click, touch support)
 
 document.addEventListener('DOMContentLoaded', () => {
   const menuicon = document.getElementById('menuicon');
