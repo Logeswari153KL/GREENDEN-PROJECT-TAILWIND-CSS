@@ -1,4 +1,4 @@
-// index.js — robust mobile side menu and mini cart count update
+
 document.addEventListener('DOMContentLoaded', () => {
   const menuicon = document.getElementById('menuicon');
   const sidenav = document.getElementById('sidenav');
